@@ -1,0 +1,1107 @@
+fileFormatVersion: 2
+guid: c7bd310d4c2fd0745bc7f85d23884f14
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: back_gray
+    second: {fileID: 2100000, guid: d2ea4ac524d920845ae7cecb203241be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: black
+    second: {fileID: 2100000, guid: 4e174d4b7bccefa48ab52811d83ae825, type: 2}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: Asphalt031_1K-JPG_Color.jpg
+    second: {fileID: 2800000, guid: 12b9f0a279385114cb0924d5a7023b77, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: Concrete015_1K-JPG_NormalGL.jpg.normal
+    second: {fileID: 2800000, guid: 49bef06f00e0ca349a7a65cc9e9a2531, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: Concrete015aa_1K-JPG_Color.jpg
+    second: {fileID: 2800000, guid: 2a9b40733d6165c4dab8cf980a18071d, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: Concrete019_1K-JPG_Color.jpg
+    second: {fileID: 2800000, guid: 18b36afb8e3b72843b5e080f1b165d4a, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: Concrete019_1K-JPG_NormalGL.jpg.normal
+    second: {fileID: 2800000, guid: 6e3472a460a255a448d338cb47a736d3, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: Concrete025_1K-JPG_NormalGL.jpg.normal
+    second: {fileID: 2800000, guid: 0062764738e797c409046faa996f4389, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: Concrete030_1K-JPG_Color.jpg
+    second: {fileID: 2800000, guid: cf6c0858ec622bb4cb182689ee999fc2, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: Concrete030_1K-JPG_NormalGL.jpg.normal
+    second: {fileID: 2800000, guid: 4bf3d99ebcf80244f84027fac45bfeba, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: Concrete034_1K-JPG_Color.jpg
+    second: {fileID: 2800000, guid: 076bdcb397f598a4c8ed407f89ceb5fd, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: Concrete034_1K-JPG_NormalGL.jpg.normal
+    second: {fileID: 2800000, guid: 416afaca8bd17ea4482724a35c9f820a, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: CorrugatedSteel007A_1K-JPG_Color.jpg
+    second: {fileID: 2800000, guid: 2ebe219545e26e144b233126c7ddf519, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: CorrugatedSteel007A_1K-JPG_NormalGL.jpg.normal
+    second: {fileID: 2800000, guid: 0e458baefa45d3a438e25f5228af924b, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: DiamondPlate009_1K-JPG_Color.jpg
+    second: {fileID: 2800000, guid: 1be611864a2c3c94fb0280ee4b41647e, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: DiamondPlate009_1K-JPG_NormalGL.jpg.normal
+    second: {fileID: 2800000, guid: 24daa9770b0db1d4fb530b4d167ca5d0, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: Facade001_1K-JPG_Color.jpg
+    second: {fileID: 2800000, guid: 111be2453fe6c0f4fa69e57e3d0a76e7, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: Facade001_1K-JPG_NormalGL.jpg.normal
+    second: {fileID: 2800000, guid: bb72b1984888eb74b884a397234c44c4, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: Grass001_1K-JPG_Color.jpg
+    second: {fileID: 2800000, guid: dede9b59d3413304681c756ab0f0c396, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: Grass001_1K-JPG_NormalGL.jpg.normal
+    second: {fileID: 2800000, guid: b1d45b608bb4c1b47a7b3becb1f56aec, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: Grass004_1K-JPG_Color.jpg
+    second: {fileID: 2800000, guid: 53c2539c4e434d34ab802425cf94db6b, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: Grass004_1K-JPG_NormalGL.jpg.normal
+    second: {fileID: 2800000, guid: 1af441c8d20cb55429cdea67441577af, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: Ground068_1K-JPG_Color.jpg
+    second: {fileID: 2800000, guid: e974b3c69e628b24a832af59cba03a6c, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: Ground068_1K-JPG_NormalGL.jpg.normal
+    second: {fileID: 2800000, guid: 8f371eedbb0be8945925822d40b62904, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: Metal010_1K-JPG_Color.jpg
+    second: {fileID: 2800000, guid: 396c342c835c8864c9e109ac4836ea2f, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: Metal010_1K-JPG_NormalGL.jpg.normal
+    second: {fileID: 2800000, guid: 1725ba4bcb337ab45afa33b1f3005a0a, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: PavingStones112_1K-JPG_Color.jpg
+    second: {fileID: 2800000, guid: 9ca522a59b99b934a95e4fbc22b145fe, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: PavingStones112_1K-JPG_NormalGL.jpg.normal
+    second: {fileID: 2800000, guid: e9885d24eed8cd84d85d38a851491e43, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: Road012A_2K-JPG_Color.jpg
+    second: {fileID: 2800000, guid: 91ecfac1379f06c47a2732b102ca7658, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: Road012A_2K-JPG_NormalGL.jpg.normal
+    second: {fileID: 2800000, guid: c8023ac594255ad4cad886e890be54f4, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: RustyCorrugatedMetalPanel02_1K_BaseColor.png
+    second: {fileID: 2800000, guid: dcd3ed0fbb82d3342937a04f3512939e, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: RustyCorrugatedMetalPanel02_1K_Normal.png.normal
+    second: {fileID: 2800000, guid: 0190f7d15c743fc4a88fd68e35db2162, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: Tiles015_1K-JPG_Color.jpg
+    second: {fileID: 2800000, guid: 0b27a686e4242a14fa5b1d55e29753ef, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: Tiles015_1K-JPG_NormalGL.jpg.normal
+    second: {fileID: 2800000, guid: 883fccf607eef8b498f841935517d4bb, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: Tiles028_1K-JPG_Color.jpg
+    second: {fileID: 2800000, guid: 9db270db4e48e914aad4f1c323f847e9, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: Tiles028_1K-JPG_NormalGL.jpg.normal
+    second: {fileID: 2800000, guid: 87a59f9a10c240a4aace602e01bea8dd, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: Tiles038_1K-JPG_Color.jpg
+    second: {fileID: 2800000, guid: 2fe4db80ff694cc429b4ef1f279b61d4, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: Tiles038_1K-JPG_NormalGL.jpg.normal
+    second: {fileID: 2800000, guid: 3e6c24674712c34468d178dd1147be8d, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: Tiles040_1K-JPG_Color.jpg
+    second: {fileID: 2800000, guid: d7293ee2261c04843a71c49e4907e1eb, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: Tiles040_1K-JPG_NormalGL.jpg.normal
+    second: {fileID: 2800000, guid: 9ccdd0124555b434f8e5915542497e25, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: Tiles131_1K-JPG_Color.jpg
+    second: {fileID: 2800000, guid: f7713cc59127ea64c9e331e2dab23cb6, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: Tiles131_1K-JPG_NormalGL.jpg.normal
+    second: {fileID: 2800000, guid: a88c1bdd66137954f9a1b6176e54e153, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: Tiles133A_1K-JPG_Color.jpg
+    second: {fileID: 2800000, guid: 132315e92c84d194f96bb6a2258d9bce, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: Tiles133A_1K-JPG_NormalGL.jpg.normal
+    second: {fileID: 2800000, guid: bba08df97e363364e884b790f947fde5, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: Tiles138_1K-JPG_Color.jpg
+    second: {fileID: 2800000, guid: 041e243500680e145897370c57f58579, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: Tiles138_1K-JPG_NormalGL.jpg.normal
+    second: {fileID: 2800000, guid: 6cab290652723cd458e704ecfb76c059, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: building10_storefrontcomp.jpg
+    second: {fileID: 2800000, guid: 903e5e0f4f566e749a338c26c9f9d033, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: building11_storefrontcomp.jpg
+    second: {fileID: 2800000, guid: 7819dcd3225ee904aa7f438c2eea6e66, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: building13_storefrontcomp.jpg
+    second: {fileID: 2800000, guid: 58ec7552416778348833fe0ff3ebfa6d, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: building15_storefrontcomp.jpg
+    second: {fileID: 2800000, guid: 6fe165e6a7406934ea1f86255859a28c, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: building16_storefrontcomp.jpg
+    second: {fileID: 2800000, guid: 4f30ff359c883684eb3b3ab1b5af2ddd, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: building17_storefrontcomp.jpg
+    second: {fileID: 2800000, guid: ecb5e710e76651a4597b5f91864bf052, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: building19_storefrontcomp.jpg
+    second: {fileID: 2800000, guid: 26cdf4496e4691845ba77e8c747efedf, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: building19a_storefrontcomp.jpg
+    second: {fileID: 2800000, guid: 9e9b7080f62cd994daa9b0604fa45e44, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: building201_storefrontcomp.jpg
+    second: {fileID: 2800000, guid: 91ad52a2208d4ab4a9d1eb248312d3d6, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: building203_storefrontcomp.jpg
+    second: {fileID: 2800000, guid: 24233b3ff4fbacf4982f96c161e254ce, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: building204_storefrontcomp.jpg
+    second: {fileID: 2800000, guid: 8e4bbdfe888e14a40b7d1ed886d2b850, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: building205_storefrontcomp.jpg
+    second: {fileID: 2800000, guid: eff91152dc2338746b4868ed1e30bb47, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: building205a_storefrontcomp.jpg
+    second: {fileID: 2800000, guid: fc22bd86d664acc43997471fe0399e0e, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: building206_storefrontcomp.jpg
+    second: {fileID: 2800000, guid: 275a1c0e4642b4b43a0f33e52c05cd23, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: building207_storefrontcomp.jpg
+    second: {fileID: 2800000, guid: 8d2dda16dd090b44a841db5439c8e8f3, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: building208_storefrontcomp.jpg
+    second: {fileID: 2800000, guid: 712d0e3bfe535cd42971e661e6265c49, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: building209_storefrontcomp.jpg
+    second: {fileID: 2800000, guid: c287f096772ea0040893e420df531dc3, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: building20_storefrontcomp.jpg
+    second: {fileID: 2800000, guid: 9390718abdd797a4aba3538a6e61b893, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: building210_storefrontcomp.jpg
+    second: {fileID: 2800000, guid: 41c5ad19f7f505640884b4c85ab97e11, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: building212_storefrontcomp.jpg
+    second: {fileID: 2800000, guid: ce8192b2dda489a4faedfc39ccefef4a, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: building213_storefrontcomp.jpg
+    second: {fileID: 2800000, guid: 27c9f585d17cd034e9003b3772a96270, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: building215_storefrontcomp.jpg
+    second: {fileID: 2800000, guid: ad71e356ad4ddbb4e8a45bef4e193899, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: building216_storefrontcomp.jpg
+    second: {fileID: 2800000, guid: 0b4a22e5c1db9714696915735401435d, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: building218_storefrontcomp.jpg
+    second: {fileID: 2800000, guid: 7211dc42ef2a43149a533cead6578565, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: building21_storefrontcomp.jpg
+    second: {fileID: 2800000, guid: 743bbea666853544593f9dff7d5222aa, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: building22_storefrontcomp.jpg
+    second: {fileID: 2800000, guid: bc9fd8130128c9f44afe4edaa542ac6b, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: building22a_storefrontcomp.jpg
+    second: {fileID: 2800000, guid: bf8e2e56a3c132347aa78003d8853348, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: building230_storefrontcomp.jpg
+    second: {fileID: 2800000, guid: 25482783ab2bf4041b8c18313c1b8d30, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: building232_storefrontcomp.jpg
+    second: {fileID: 2800000, guid: ec03f4318f325c248b1e83f246092a27, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: building233_storefrontcomp.jpg
+    second: {fileID: 2800000, guid: d96e2358bbe355f49889877bc95b60aa, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: building234_storefrontcomp.jpg
+    second: {fileID: 2800000, guid: e0ec12ec85c5cab4bbffb90c9778bdea, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: building235_storefrontcomp.jpg
+    second: {fileID: 2800000, guid: 80d0c5cefec63a5469f6a8ec31a53ff4, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: building23_storefrontcomp.jpg
+    second: {fileID: 2800000, guid: 3b6391a9769b2ff4293491c033f117a6, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: building25_storefrontcomp.jpg
+    second: {fileID: 2800000, guid: 7a917e93b7c627944974b41df8bcac9a, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: building26_storefrontcomp.jpg
+    second: {fileID: 2800000, guid: 6af18e5722d19a549a399ee5fb5ab308, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: building27_storefrontcomp.jpg
+    second: {fileID: 2800000, guid: f36d79005d4912349ba936009293d70c, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: building2_storefrontcomp.jpg
+    second: {fileID: 2800000, guid: ae9d18cc04bb9d8418412af4f68ca736, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: building42_storefrontcomp.jpg
+    second: {fileID: 2800000, guid: da9dfc41fd37ea14e9e28b34f70ee3b9, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: building42a_storefrontcomp.jpg
+    second: {fileID: 2800000, guid: 5487e203c1e9fe84badfaba470335a30, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: building46_storefrontcomp.jpg
+    second: {fileID: 2800000, guid: f888be48d7424b5408a654f52892d232, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: building46a_storefrontcomp.jpg
+    second: {fileID: 2800000, guid: 1cd8e1d2305e73848883d847513a5073, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: building48a_storefrontcomp.jpg
+    second: {fileID: 2800000, guid: 04b501ac17902ae4e9d1bb60eda707ea, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: building49_storefrontcomp.jpg
+    second: {fileID: 2800000, guid: d1f7318c6b9b2d647a1e303d891f981c, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: building50_storefrontcomp.jpg
+    second: {fileID: 2800000, guid: a52b09f8f97464a418c5604291e7e8cf, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: building52_storefrontcomp.jpg
+    second: {fileID: 2800000, guid: a50aae993d3ca354f8e15ea826ed1099, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: building54_storefrontcomp.jpg
+    second: {fileID: 2800000, guid: 9051968a90a835543b91dd74716570c5, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: building59_storefrontcomp.jpg
+    second: {fileID: 2800000, guid: 35a1a2eed0685ee409710e597780cba5, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: building5_storefrontcomp.jpg
+    second: {fileID: 2800000, guid: a91181a0d67b1cb48a8e6ba38cb35d96, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: building60_storefrontcomp.jpg
+    second: {fileID: 2800000, guid: 77331c8bd8af549469a76a7e68f70b1d, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: building60a_storefrontcomp.jpg
+    second: {fileID: 2800000, guid: c3ef68f303fd7de40a39134cacf59b60, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: building61a_storefrontcomp.jpg
+    second: {fileID: 2800000, guid: 17649402ac230464d9c5f98eb468d2d6, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: building62a_storefrontcomp.jpg
+    second: {fileID: 2800000, guid: 0bfcf5c19de4df94fb6d8e6ebdef17c6, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: building63_storefrontcomp.jpg
+    second: {fileID: 2800000, guid: fefc5b2cabe71c84d833510c6a686007, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: building63a_storefrontcomp.jpg
+    second: {fileID: 2800000, guid: 5245186778b7d8c48af07c2dc9b12d58, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: building6_storefrontcomp2.jpg
+    second: {fileID: 2800000, guid: b3513a64dc5fe9647bfd9ba7e9a0ff5b, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: building70a_storefrontcomp.jpg
+    second: {fileID: 2800000, guid: 5410f00ed4e6b494eb74735ca85ac93e, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: building73_storefrontcomp.jpg
+    second: {fileID: 2800000, guid: 68f543aed4a0c7b4e94b3e1e248855d3, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: building73a_storefrontcomp.jpg
+    second: {fileID: 2800000, guid: ee4f3ea0ca344c94aad6e61bf29078d1, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: building74_storefrontcomp.jpg
+    second: {fileID: 2800000, guid: b2f433bdf50a2e54684e866c93942696, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: building75_storefrontcomp.jpg
+    second: {fileID: 2800000, guid: 9953116168368864eb0246c839d46fe1, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: building76_storefrontcomp.jpg
+    second: {fileID: 2800000, guid: 909c38f388c5c2c4f8de10c6ca4c3562, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: building77_storefrontcomp.jpg
+    second: {fileID: 2800000, guid: 03582607c39f7ef45b968d17f21d0a4f, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: building78_storefrontcomp.jpg
+    second: {fileID: 2800000, guid: c96a0281182e42f4d96f6ac576352d28, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: building7_storefrontcomp.jpg
+    second: {fileID: 2800000, guid: 348ff10cde2efcc4f99bcb9df83dddbb, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: building83a_storefrontcomp.jpg
+    second: {fileID: 2800000, guid: ef3bb90e96b1127489fc85af432e69e5, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: building84a_storefrontcomp.jpg
+    second: {fileID: 2800000, guid: 8cfb2d5de8a4e574b90e55325d05d82e, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: building8_storefrontcomp.jpg
+    second: {fileID: 2800000, guid: 9f3ce3477db21304baf4cae7bd409224, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: building91_storefrontcomp.jpg
+    second: {fileID: 2800000, guid: dfbf3917f2ff54848b0bdb91d8d6fac2, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: building92_storefrontcomp.jpg
+    second: {fileID: 2800000, guid: 00c6416e68a9f224db67f1c8821d2221, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: jcBldWallA.png
+    second: {fileID: 2800000, guid: 1010c9722b424ce478be4613e18341d4, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: jcBldWallA_n.png.normal
+    second: {fileID: 2800000, guid: daae676e9a5e94f40877cc382f91d24e, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: jcBldWallF.png
+    second: {fileID: 2800000, guid: 108e03619fad0bb4e8ba660014f46155, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: jcBldWallF_n.png.normal
+    second: {fileID: 2800000, guid: af1d4ac02f02c9b428a0d3847c3747ec, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: jcBldWallH.jpg
+    second: {fileID: 2800000, guid: b6c1dcf14a566624ca290b08e37daeb7, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: jcBldWallH_n.jpg.normal
+    second: {fileID: 2800000, guid: e9fdace76feb6144c9ddae213e316d8f, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: jcBldWallL.png
+    second: {fileID: 2800000, guid: a118391f49d2d9c4da9ced0a9bba23db, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: jcBldWallL_n.png.normal
+    second: {fileID: 2800000, guid: 5c5d662c4246861458d79289f287d6ec, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: jcBldWallN.png
+    second: {fileID: 2800000, guid: 2c54270eae2b3c94da4f7a7e5f3bacf1, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: jcBldWallN_n.png.normal
+    second: {fileID: 2800000, guid: ccc3263dfff4ef242990a19ccfbc0338, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: jcBldWallP.png
+    second: {fileID: 2800000, guid: 5760549c621f9704b8ac5c4709e58682, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: jcBldWallP_n.png.normal
+    second: {fileID: 2800000, guid: d9b2ec19ba8d36e49a282cbe23d96d34, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: jk027.jpg
+    second: {fileID: 2800000, guid: 469d5a6e6ba51b84da4264e68191a80d, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: red07.jpg
+    second: {fileID: 2800000, guid: 50caab1eaca7fcc49a8d55fe90361c50, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: red07_nor.jpg.normal
+    second: {fileID: 2800000, guid: c50282081d56ac744bcd962a80d2b0ef, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: sampledDiffuseColor2.jpg
+    second: {fileID: 2800000, guid: 4ccc885bf1c3124459745d23f1445f69, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: sampledDiffuseColor3.jpg
+    second: {fileID: 2800000, guid: e02b87caf92f56646b4cc0d294de1605, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: sk001.jpg
+    second: {fileID: 2800000, guid: 39e05dcf54af4b642bbf59833a632245, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: sk001aaa.jpg
+    second: {fileID: 2800000, guid: 085156296c5853a44abf89bacc6bd5ee, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: sk002.jpg
+    second: {fileID: 2800000, guid: bdf61ddd0fde393479eb355589d9bf88, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: sk003.jpg
+    second: {fileID: 2800000, guid: 669698555ddd5ef488ec285fd4c0e87b, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: sk004.jpg
+    second: {fileID: 2800000, guid: 7e9aaa02d2106c24283555d22234a28a, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: sk005_alpha_sk005_bk.png
+    second: {fileID: 2800000, guid: a107805c8f45854468c4a25c6d7cd575, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: sk006_alpha_sk006_bk.png
+    second: {fileID: 2800000, guid: 990d73f0573ae4b429b56bd3ae89f973, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: sk011.jpg
+    second: {fileID: 2800000, guid: 5343c05b106b74f409646d04ecc5d19d, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: sk012.jpg
+    second: {fileID: 2800000, guid: d7fa718aac5670b4f85d7e821e159b07, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: sk014.jpg
+    second: {fileID: 2800000, guid: 389e9a3c4bf5b5344aab09d2c0e3225a, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: sk019.jpg
+    second: {fileID: 2800000, guid: 3c309a40720b703489dba35972588af8, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: sk020.jpg
+    second: {fileID: 2800000, guid: 6f5c8fe4d34929c41b365f30023da5c7, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: sk022.jpg
+    second: {fileID: 2800000, guid: 8046a53e2b30b20408c9070cfe80aa09, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: sk023.jpg
+    second: {fileID: 2800000, guid: eb42b0964eaac1042a9a954423432d77, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: sk024.jpg
+    second: {fileID: 2800000, guid: dc2b55d6869ff014698f137dbd0e6002, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: sk025.jpg
+    second: {fileID: 2800000, guid: a7e1a98b0a7f88f448a6888c137e0dc8, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: sk026.jpg
+    second: {fileID: 2800000, guid: 7f7f32abcb1a085438dd91fda477eefb, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: sk027.jpg
+    second: {fileID: 2800000, guid: d42d2d7d596a5c84293b5f5e7e39a4c9, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: sk028.jpg
+    second: {fileID: 2800000, guid: a66e0aec38e77ac44999a6fa18d954b1, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: sk030.jpg
+    second: {fileID: 2800000, guid: 8c807a653e03d154bac614f40f4862f3, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: sk031.jpg
+    second: {fileID: 2800000, guid: 1cfebc01207c2d946a9914145f000223, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: sk032.jpg
+    second: {fileID: 2800000, guid: ad9bd84ba8ccf6e459faec72b9470e93, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: sk033.jpg
+    second: {fileID: 2800000, guid: 30464b0b59c6f174a8e5e6545ea16332, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: sk052.jpg
+    second: {fileID: 2800000, guid: 24893362b7c2e9241a5b12dd2acc159e, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: sk053.jpg
+    second: {fileID: 2800000, guid: 6e1f2958d78cecd4db020cd2c5b4757d, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: sk054.jpg
+    second: {fileID: 2800000, guid: 226ec6a7e5c613e4d9fab885374ebd13, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: sk055.jpg
+    second: {fileID: 2800000, guid: a08d4a4a40cc8f846bcf61940fde739f, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: sk056.jpg
+    second: {fileID: 2800000, guid: a5febad0f49b663458aaa780e216a1a1, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: sk057.jpg
+    second: {fileID: 2800000, guid: 5641ba99ac9b0d2409af9de2fa951c1b, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: sk058.jpg
+    second: {fileID: 2800000, guid: bbaca4bb40993b24d84b1530ac77c16d, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: sk059.jpg
+    second: {fileID: 2800000, guid: 9c9dc5acdaa2d6b408bf365d9d30cf93, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: sk060.jpg
+    second: {fileID: 2800000, guid: 962a049eb6279d3449d25d157fb7181c, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: sk061.jpg
+    second: {fileID: 2800000, guid: c4545c84ab2406a498c42a859601aaaa, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: sk062.jpg
+    second: {fileID: 2800000, guid: d018076babf7da9478b05abadf935a7b, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: sk063.jpg
+    second: {fileID: 2800000, guid: 59c7e38190641ba4890c2468358632fd, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: sk064.jpg
+    second: {fileID: 2800000, guid: 447c6d1c6c394a64e993151fa043b6bb, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: sk065.jpg
+    second: {fileID: 2800000, guid: daf7a330b7a6f8149b0ff81eb5b45713, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: sk066.jpg
+    second: {fileID: 2800000, guid: bdd6672122bcbe24d9710aba0018705d, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: sk066_nor.jpg.normal
+    second: {fileID: 2800000, guid: d8d414b74164ed94db64a27eee117387, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: sk067.jpg
+    second: {fileID: 2800000, guid: 609df7c04ee89e64e9671e367d868261, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: sk067_nor.jpg.normal
+    second: {fileID: 2800000, guid: cbc7611a8970cf64eb7db512bef43257, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: sk068.jpg
+    second: {fileID: 2800000, guid: b7c61c024c4a11a458e8af6d774e580c, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: sk069.jpg
+    second: {fileID: 2800000, guid: 7e599f4cd6bf65344aa738c7e48c8beb, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: sk070.jpg
+    second: {fileID: 2800000, guid: abf3d9fcb0e55874da1c074fe99357d9, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: sk073.jpg
+    second: {fileID: 2800000, guid: 594d9d69abde71446a282144fe610c22, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: sk073_nor.jpg.normal
+    second: {fileID: 2800000, guid: a5efd030d6baedc44ab7d4af85c885c5, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: sk074.jpg
+    second: {fileID: 2800000, guid: 73e118ede966a63429609a2514a8b8d3, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: sk074_nor.jpg.normal
+    second: {fileID: 2800000, guid: 01f4f73787e253d47863757462a85c27, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: sk078.jpg
+    second: {fileID: 2800000, guid: 1a603697f9e7ea749ae71b507e03b2c5, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: texture_301.jpg
+    second: {fileID: 2800000, guid: 3731d2d9d44bb374e832547f5c2caa7f, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: texture_302.jpg
+    second: {fileID: 2800000, guid: ff3f92f053d4c1d4389c578efe0a3425, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: texture_302_nor.jpg.normal
+    second: {fileID: 2800000, guid: fd4d7ece6cdfde14793c39b03ac08dc8, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: texture_303.jpg
+    second: {fileID: 2800000, guid: 1e1add6dda3e5994b99fa46f91ecb9ab, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: texture_304.jpg
+    second: {fileID: 2800000, guid: 8180ddb1ac855f74e91030799de33fd7, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: texture_305.jpg
+    second: {fileID: 2800000, guid: c1df33b04f1054040a13a3420b8980da, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: texture_306.jpg
+    second: {fileID: 2800000, guid: e6041b79daae1244b9d58033866899b0, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: texture_307.jpg
+    second: {fileID: 2800000, guid: 50aac135fcfb41746af6a16f7aaec729, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: texture_308.jpg
+    second: {fileID: 2800000, guid: 769add2c9987e4b4585eb341594804ff, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: texture_309.jpg
+    second: {fileID: 2800000, guid: c3d1b0c137495374b855a1be13607dc0, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: texture_310.jpg
+    second: {fileID: 2800000, guid: a2c1fd397b2e4b54c9022249e4330ac2, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: texture_311.jpg
+    second: {fileID: 2800000, guid: d69a23d4446b28141928c65558b10b0f, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: texture_312.jpg
+    second: {fileID: 2800000, guid: ee2ab9690f6b6f3419d16577412a52f2, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: texture_313.jpg
+    second: {fileID: 2800000, guid: a415a5a96fccb08488d856bd63200216, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: texture_319.jpg
+    second: {fileID: 2800000, guid: aedc7d65e9491ba46a350ae02dd7c208, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: texture_319_nor.jpg.normal
+    second: {fileID: 2800000, guid: e170285653c7e0645afa9e6b026fcca9, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: texture_393.jpg
+    second: {fileID: 2800000, guid: 2d3e14ef89c39524dbc13bea67e1184f, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: tiles_0031_color_1ka.jpg
+    second: {fileID: 2800000, guid: 83823daa7247e89459e03fdc95475e6e, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: tiles_0031_normal_opengl_1ka.jpg.normal
+    second: {fileID: 2800000, guid: 664d5ce38d96e89459322b5ea7b5135f, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: tiles_0046_color_1k.jpg
+    second: {fileID: 2800000, guid: ee3b82c624b824344bf3ad661eede180, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: tiles_0046_normal_opengl_1k.png.normal
+    second: {fileID: 2800000, guid: 4cb9ff180c6404c48aeba8e2e026b34c, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: tiles_0065_color_1ka.jpg
+    second: {fileID: 2800000, guid: e2cd0188483c1574298856dbfa03bb25, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: tiles_0065_normal_opengl_1k.png.normal
+    second: {fileID: 2800000, guid: 5b3097977940c804dad8500523d4e971, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: title00111_color.jpg
+    second: {fileID: 2800000, guid: dbe45d5fe5dd22942aeb2155a992f1e1, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: title00111_nor.jpg.normal
+    second: {fileID: 2800000, guid: d854de029fed201478b6560fdd0fa60f, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: title00112_color.jpg
+    second: {fileID: 2800000, guid: 9d991e340e72dd243aa92eadd70ad6b1, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: title00112_nor.jpg.normal
+    second: {fileID: 2800000, guid: 2dfb26abeaa6cd94ab5f5536fd13dcdf, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: traffic_light001.jpg
+    second: {fileID: 2800000, guid: d26a79cf55dd94b46ab5e26597ec01b4, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: traffic_light003.jpg
+    second: {fileID: 2800000, guid: 6dc1acce94c784748afbd9ece989e520, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: traffic_light004.jpg
+    second: {fileID: 2800000, guid: c3c0fa52cc9f084418c48fc2a0b30b3d, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: traffic_light005.jpg
+    second: {fileID: 2800000, guid: 979e32a0a4212bd488cd7827189a04af, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: traffic_light006.jpg
+    second: {fileID: 2800000, guid: 1fefd1fae243619489b08b740aa8483c, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: traffic_light007.jpg
+    second: {fileID: 2800000, guid: f22b7527e1e317d4284135f14a7b24ce, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: traffic_light011.jpg
+    second: {fileID: 2800000, guid: 6df4ce7814ba53d4cb273b2f9e2fb5a7, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: traffic_light013.jpg
+    second: {fileID: 2800000, guid: ac8ac6de1584bc44f83f34ec880c3132, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: traffic_light017.jpg
+    second: {fileID: 2800000, guid: 7e8c6f6ea2b34aa4d9034690eae78222, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: traffic_light018.jpg
+    second: {fileID: 2800000, guid: 95145189ed54cd2489cc0a1a73035fa4, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: traffic_light019.jpg
+    second: {fileID: 2800000, guid: 9b7d89774b55f834c850dee1375c2578, type: 3}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: cc45016b844e7624dae3aec10fb443ea, type: 3}
+  reverseAxis: 0
+  renderPipeline: 0
