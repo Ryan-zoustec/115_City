@@ -1,0 +1,64 @@
+{
+    "snapshotVersion": "1.1.0",
+    "createdAt": "2026-07-10 18:25:55",
+    "unityVersion": "6000.3.9f1",
+    "sourceAssetPath": "Assets/Radiation/ResourcesAssets/Trrain/Tree_Packs/URP_Tree_Pack/Prefabs/URP_Tree_1.prefab",
+    "sourceAssetName": "URP_Tree_1.prefab",
+    "sourceAssetGuid": "022485ff60e4a26418217d8ab778a812",
+    "references": [
+        {
+            "guid": "ceb4d366f02dab3489e36a95ffb3e9e4",
+            "assetPath": "Assets/Radiation/ResourcesAssets/Trrain/Tree_Packs/URP_Tree_Pack/Models/URP_Tree_1/Materials/Leaf.mat",
+            "assetName": "Leaf.mat",
+            "extension": ".mat",
+            "fileSize": 3843,
+            "md5": "f9b4f1828a5a03bc1932f2fb8cfe6f93",
+            "count": 4
+        },
+        {
+            "guid": "5075ca828a84d014a8a20f00c0b63146",
+            "assetPath": "Assets/Radiation/ResourcesAssets/Trrain/Tree_Packs/URP_Tree_Pack/Models/URP_Tree_1/Materials/Trunk.mat",
+            "assetName": "Trunk.mat",
+            "extension": ".mat",
+            "fileSize": 3761,
+            "md5": "7f314f04646beb0e383216085867f2d6",
+            "count": 4
+        },
+        {
+            "guid": "419b474d3d31ef54e9c101d6e7213aee",
+            "assetPath": "Assets/Radiation/ResourcesAssets/Trrain/Tree_Packs/URP_Tree_Pack/Models/URP_Tree_1/URP_Tree_1_LOD_0.fbx",
+            "assetName": "URP_Tree_1_LOD_0.fbx",
+            "extension": ".fbx",
+            "fileSize": 3061553,
+            "md5": "80a199f8d89f79fc4916e5af597117a0",
+            "count": 1
+        },
+        {
+            "guid": "fc8ec91f9ed53ab4b8302d063cc89ae6",
+            "assetPath": "Assets/Radiation/ResourcesAssets/Trrain/Tree_Packs/URP_Tree_Pack/Models/URP_Tree_1/URP_Tree_1_LOD_1.fbx",
+            "assetName": "URP_Tree_1_LOD_1.fbx",
+            "extension": ".fbx",
+            "fileSize": 2372164,
+            "md5": "4e248900031d7be84cdf55c4e9d647f4",
+            "count": 1
+        },
+        {
+            "guid": "0a9ad2b5edd0c6d49bc3aebe133e3850",
+            "assetPath": "Assets/Radiation/ResourcesAssets/Trrain/Tree_Packs/URP_Tree_Pack/Models/URP_Tree_1/URP_Tree_1_LOD_2.fbx",
+            "assetName": "URP_Tree_1_LOD_2.fbx",
+            "extension": ".fbx",
+            "fileSize": 1643255,
+            "md5": "c53b1992435fb3641fa714f37aec1a9c",
+            "count": 1
+        },
+        {
+            "guid": "690b2391c32f7744eb70ac3f0795c1eb",
+            "assetPath": "Assets/Radiation/ResourcesAssets/Trrain/Tree_Packs/URP_Tree_Pack/Models/URP_Tree_1/URP_Tree_1_LOD_3.fbx",
+            "assetName": "URP_Tree_1_LOD_3.fbx",
+            "extension": ".fbx",
+            "fileSize": 1376481,
+            "md5": "8b93fac0de9c1118e046f6564d3c9a7c",
+            "count": 1
+        }
+    ]
+}
